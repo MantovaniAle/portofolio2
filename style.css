@@ -123,3 +123,10 @@ a {
   text-decoration: none;
   text-align: center;
 }
+
+footer{
+  bottom: 0;
+  position: fixed;
+  width: 90%;
+  text-align: center;
+}
